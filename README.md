@@ -2,7 +2,7 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 ## Descrição
-Projeto acadêmico criado com a finalidade de aprendizado da ferramenta JavaFX, no Eclipse e Scene Buildere para criação de interface gráfica. O projeto consiste em 
+Projeto acadêmico criado com a finalidade de aprendizagem da ferramenta JavaFX, no Eclipse e Scene Buildere para criação de interface gráfica. O projeto consiste em 
 relacionar vendedores de uma loja com seus respectivos departamentos.
 
 ## Modelo
